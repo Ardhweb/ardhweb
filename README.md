@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **django, drf, python, mysql ,web dev, etc.**
 
-- 📫 How to reach me **sun.projects.dev@gmail.com**
+- 📫 How to reach me **DM me at my Linkedin.**
 
 - ⚡ My Nature **I think I am the person that focused and see things positive upfront**
 
