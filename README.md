@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js & Advanced About Django and DRF**
 
-- 👯 I’m working on same like this ecommerce project [easycommerce](https://github.com/Ardhweb/EasyCommerce)
+- 👯 I’m working on this ecommerce project trying to building and single vendor ecommerce project. [ecom_sven](https://github.com/Ardhweb/ecom_sven)
 
 - 👨‍💻 All of my projects are available at [https://ardhweb.github.io/justcoder181/](https://ardhweb.github.io/justcoder181/)
 
