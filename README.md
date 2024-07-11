@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React js & Advanced About Django and DRF**
 
-- 👯 I’m working on this ecommerce project trying to building and single vendor ecommerce project. [ecom_sven](https://github.com/Ardhweb/ecom_sven)
+- 👯 I’m right now working on this an invocing and billing interface project tryng to building and free to use , User-friendly  billing/invocing creating and record management  system using various tech stack and deep backend  with using  litle bit of my system design  skill set. [bezt bills](https://github.com/Ardhweb/bezt_bills.git)
 
 - 👨‍💻 All of my projects are available at [https://ardhweb.github.io/justcoder181/](https://ardhweb.github.io/justcoder181/)
 
 - 📝 I regularly write articles on [https://bracknode.blogspot.com/](https://bracknode.blogspot.com/)
 
-- 💬 Ask me about **django, drf, python, mysql ,web dev, etc.**
+- 💬 Ask me about **django, drf, python, mysql ,web dev,aws, database ,system design , dsa, etc.**
 
 - 📫 How to reach me **DM me at my Linkedin.**
 
