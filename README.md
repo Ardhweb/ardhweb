@@ -5,7 +5,7 @@
 
 - 🔭 I have some projects like this [badaresellar](https://github.com/Ardhweb/badaresellar)
 
-- 🌱 I’m currently learning **React js & Advanced About Django and DRF**
+- 🌱 I’m currently learning **Deep Learning and A.I. & Advanced About Django and DRF**
 
 - 👯 I’m right now working on this an invocing and billing interface project tryng to building and free to use , User-friendly  billing/invocing creating and record management  system using various tech stack and deep backend  with using  litle bit of my system design  skill set.
 - [bezt bills](https://github.com/Ardhweb/bezt_bills.git)
