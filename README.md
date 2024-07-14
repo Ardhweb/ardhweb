@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and A.I. & Advanced About Django and DRF**
 
-- 👯 I’m right now working on this an invocing and billing interface project tryng to building and free to use , User-friendly  billing/invocing creating and record management  system using various tech stack and deep backend  with using  litle bit of my system design  skill set.
+- 👯 I’m right now working on this an invocing and billing interface project tryng to building an free to use , user-friendly  billing/invocing creating and record management  system using various tech stack and python backend  with using  litle bit of my system design  skill set.
 - [bezt bills](https://github.com/Ardhweb/bezt_bills.git)
 
 - 👨‍💻 All of my projects are available at [https://ardhweb.github.io/justcoder181/](https://ardhweb.github.io/justcoder181/)
