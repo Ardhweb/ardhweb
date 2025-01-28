@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardhweb&label=Profile%20views&color=0e75b6&style=flat" alt="ardhweb" /> </p>
 
-- 🔭 I have some projects like this [pilot_products](https://github.com/Ardhweb/badaresellar](https://github.com/Ardhweb/pilot_products)
+- 🔭 I have some projects like this [pilot_products](https://github.com/Ardhweb/pilot_products)
 
 - 🌱 I’m currently learning **Deep Learning and A.I. & Advanced About Django and DRF**
 
