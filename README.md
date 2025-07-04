@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rahul </h1>
-<h3 align="center">A passionate FullStack/Backend Developer from India</h3>
+<h3 align="center">A passionate FullStack/Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardhweb&label=Profile%20views&color=0e75b6&style=flat" alt="ardhweb" /> </p>
 
-- 🔭 I have some projects like this [pilot_products](https://github.com/Ardhweb/pilot_products)
+- 🔭 I am currently working on project like this [pilot_products](https://github.com/Ardhweb/pilot_products)
 
 - 🌱 I’m currently learning **Deep Learning and A.I. & Advanced About Django and DRF**
 
 - 👯 I’m right now working on this an invocing and billing interface project tryng to building an free to use , user-friendly  billing/invocing creating and record management  system using various tech stack and python backend  with using  litle bit of my system design  skill set.
-- [bezt bills](https://github.com/Ardhweb/bezt_bills.git)  , [pilot_products](https://github.com/Ardhweb/pilot_products)
+-  [pilot_products](https://github.com/Ardhweb/pilot_products)
 
 - 👨‍💻 All of my projects are available at [https://ardhweb.github.io/justcoder181/](https://ardhweb.github.io/justcoder181/)
 
 - 📝 I regularly write articles on [https://bracknode.blogspot.com/](https://bracknode.blogspot.com/)
 
-- 💬 Ask me about **django, drf, python, mysql ,web dev,aws, database ,system design , dsa, etc.**
+- 💬 Ask me about **django, drf, python, mysql ,web dev,aws, database ,system design , dsa,Docker, javascript, jira, etc.**
 
 - 📫 How to reach me **DM me at my Linkedin.**
 
