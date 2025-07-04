@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on project like this [pilot_products](https://github.com/Ardhweb/pilot_products)
 
-- 🌱 I’m currently learning **Deep Learning and A.I. & Advanced About Django and DRF**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligenace Application's & Advanced About Django Scaled and Complex Solutions**
 
 - 👯 I’m right now working on this an invocing and billing interface project tryng to building an free to use , user-friendly  billing/invocing creating and record management  system using various tech stack and python backend  with using  litle bit of my system design  skill set.
 -  [pilot_products](https://github.com/Ardhweb/pilot_products)
