@@ -32,6 +32,6 @@
 
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="tailwind"/>
 </p>
-<p><img decoding="async" class="media-45171" src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" alt="The primary Docker logo using both the whale symbol and wordmark." title="logo-guide-logos-1"></p>
+<p><img decoding="async" class="media-45171" src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" alt="The primary Docker logo using both the whale symbol and wordmark." title="logo-guide-logos-1" width="40" height="40"></p>
 
 <p><img align="center" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="ardhweb" /></p>
