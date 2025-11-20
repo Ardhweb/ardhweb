@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardhweb&label=Profile%20views&color=0e75b6&style=flat" alt="ardhweb" /> </p>
 
+- Pinned : <a href="https://bracknode.blogspot.com/2025/11/python-mock-testpractice-platform-free.html"> Mock Practice </a>
+- 
 - 🔭 I am currently working on project like this [pilot_products](https://github.com/Ardhweb/pilot_products)
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligenace Application's & Advanced About Django Scaled and Complex Solutions**
