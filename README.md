@@ -38,5 +38,6 @@
 <p><img align="center" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="ardhweb" /></p>
 
 
-<img width="68" height="63" alt="Screenshot_12" src="https://github.com/user-attachments/assets/7695752e-c2a2-4301-b40e-aff54cd3801d" />
+<img style="width: 136px; height: 126px; background-color: transparent;"
+ alt="Screenshot_12" src="https://github.com/user-attachments/assets/7695752e-c2a2-4301-b40e-aff54cd3801d" />
 
