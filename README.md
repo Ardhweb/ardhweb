@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardhweb&label=Profile%20views&color=0e75b6&style=flat" alt="ardhweb" /> </p>
 
-- Pinned : <a class="btn btn-danger" href="https://bracknode.blogspot.com/2025/11/python-mock-testpractice-platform-free.html"> Mock Practice Test </a>
-- 🔭 I am currently working on project like this [pilot_products](https://github.com/Ardhweb/pilot_products)
+- Pinned : <a class="btn btn-danger" href="https://bracknode.blogspot.com/2025/11/python-mock-testpractice-platform-free.html">Blog </a>
+- 🔭 I am currently working on project like this [sjinvoc](https://github.com/Ardhweb/sjinvoc)
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligenace Application's & Advanced About Django Scaled and Complex Solutions**
+- 🌱 I’m currently learning **Django Scaled and Complex Solutions**
 
 - 👯 I’m right now working on this an invocing and billing interface project tryng to building an free to use , user-friendly  billing/invocing creating and record management  system using various tech stack and python backend  with using  litle bit of my system design  skill set.
 -  [pilot_products](https://github.com/Ardhweb/pilot_products)
